@@ -9,6 +9,6 @@
  
 	<bean id="helloWorldService"
 		class="com.programcreek.helloworld.services.HelloWorldService">
-		<property name="name" value="Program Creek Readers" />
+		<property name="name" value="Frankie Ahrens" />
 	</bean>
 </beans>
