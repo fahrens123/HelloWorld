@@ -18,7 +18,7 @@ public class HelloWorldTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented, stupid fuck!");
+		fail("Not yet implemented, stupid asshole!");
 	}
 
 }
